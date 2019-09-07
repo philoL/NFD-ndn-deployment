@@ -27,6 +27,9 @@
 #include "algorithm.hpp"
 #include "core/logger.hpp"
 
+#include "str-helper.hpp"
+#include "pcon-strategy.hpp"
+
 namespace nfd {
 namespace fw {
 namespace asf {
